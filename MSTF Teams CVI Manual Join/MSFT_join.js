@@ -1,7 +1,7 @@
 const xapi = require('xapi')
 const DIALPAD_ID = 'dailpad';
 const INROOMCONTROL_WEBCONTROL_PANELID = "MSFT";
-const videoDomain = 'sitename';  //this is the site name associated with your CVI instance
+const videoDomain = 'tatacom';  //this is the site name associated with your CVI instance
 const webexDomain = '@m.webex.com'
 const finalDomain = '.' + videoDomain + webexDomain
 var teamsnumbertodial = '';
